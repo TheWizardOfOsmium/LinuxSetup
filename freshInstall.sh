@@ -29,6 +29,7 @@ git config --global user.name "Tripp"
 git config --global user.email "trippalamb@gmail.com"
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=3600'
+git config --global core.editor "vim"
 
 #set up directories for programming projects
 cd ~
